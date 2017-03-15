@@ -1,4 +1,4 @@
 var name, admin;
-name = "Василий";
+name = "Привет лапунькам!";
 admin = name;
 alert (admin);
